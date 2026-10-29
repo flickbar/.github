@@ -7,3 +7,5 @@ two swipes for a quarter, pinch to close or go full screen, and hold ⌘ to send
 display. Free and open source under the GPL.
 
 → **[flickbar/flickbar](https://github.com/flickbar/flickbar)**
+
+Made by [Parsa Kamalipour](https://github.com/benymaxparsa).
