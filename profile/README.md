@@ -7,6 +7,6 @@ two swipes for a quarter, rest two fingers for a grid of layouts, pinch to close
 to send a window to another display. A short tutorial teaches the gestures, and Flickbar speaks English, French
 and Persian. Free and open source under the GPL.
 
-**[Website](https://flickbar.github.io/)** ([Français](https://flickbar.github.io/fr/), [فارسی](https://flickbar.github.io/fa/)) · **[Source code](https://github.com/flickbar/flickbar)**
+**[Website](https://flickbar.parsakp.com/)** ([Français](https://flickbar.parsakp.com/fr/), [فارسی](https://flickbar.parsakp.com/fa/)) · **[Source code](https://github.com/flickbar/flickbar)**
 
 Made by [Parsa Kamalipour](https://github.com/benymaxparsa).
